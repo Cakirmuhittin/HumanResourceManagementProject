@@ -1,6 +1,6 @@
-###THIS IS A PROJECT OF DEMO 
+### THIS IS A PROJECT OF DEMO 
 
-###Description
+### Description
 '
 In this project, there are two roles: an HR employee (manager) and personnel.
 
@@ -23,7 +23,7 @@ They can report expenses.
 Technologies used: MVC ASP .Net CORE (.Net6), Identity, Inversion of Control, Repository Design Pattern, Code First, TFS, Azure Cloud, Azure DevOps, EF-Core, Bootstrap5,WebAPI,Clean Arch.
 '
 
-###Reserved
+### Reserved
 '
 All rights to the project belong to Ozge Engin Sezer, Batuhan Cikrikci , Muhittin Cakir , Burak Ozturk
 '
